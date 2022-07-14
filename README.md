@@ -1,6 +1,13 @@
-# AncientWonders
+# Ancient Wonders
+Practice application to implement code via Angular, mySQL etc
+This application opens a home page with a list of the seven ancient wonders of the world.
+Each wonder is its own component and will dynamically be routed on same page when clicked on the menu.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
+
+### This README file will be updated as more features are added to the app.
+
+--All information about the wonders are from National Geographic--
 
 ## Development server
 
